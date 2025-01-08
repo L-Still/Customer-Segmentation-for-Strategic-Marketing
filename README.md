@@ -1,2 +1,3 @@
 # Customer Segmentation - KMeans
  
+This project leverages RFM (Recency, Frequency, Monetary) analysis to segment customers based on their purchasing behavior. Using a real-world e-commerce dataset, I cleaned and preprocessed the data, applied the K-means clustering algorithm, and determined the optimal number of clusters using the elbow method and silhouette scores. The resulting customer segments were analyzed to derive actionable insights for targeted marketing strategies, improving customer retention, and driving business growth. Visualizations and statistical metrics showcased the distinct characteristics of each segment, making it a comprehensive solution for data-driven decision-making.
